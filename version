@@ -1,0 +1,18 @@
+;
+; Version description file for plugin @@ Next Generation CMS
+;
+ 
+ID: user_stag
+Name: Стаж пользователя
+Version: 0.1
+Acts: plugin.uprofile
+File: user_stag.php
+Config: config.php
+Type: plugin
+Description: Сколько дней пользователь существует на сайте
+Author: KachalkinGeorg
+Author_URI: 
+Icon: <i class='fa fa-user fa-2x'></i>
+Title: Стаж пользователя
+Information: Выводит количество проведенных дней, месяцев, а также лет на сайте пользователя в его профиле
+Preinstall: no
